@@ -12,7 +12,7 @@ git clone https://github.com/Aseer-Bazal/Domain_Information_Gathering
 <li>Move into the tool directory:</li>
 
 ```
-cd Domain_Information_Gathering</code>
+cd Domain_Information_Gathering
 ```
 <li>Install the required libraries:</li> 
 
@@ -24,5 +24,5 @@ pip install -r requirements.txt
 ## How to Use
 Run the tool by executing the following command:
 ```
- python Domain_Information_Gathering.py
+ python3 Domain_Information_Gathering.py
 ```
