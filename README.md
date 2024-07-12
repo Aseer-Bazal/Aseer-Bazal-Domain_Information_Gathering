@@ -4,7 +4,7 @@ Domain_Information_Gathering is a Basic Domain Information Gathering Tool
 ## How to Install
 
 <ol>
-<li>Clone the ropository:</li>
+<li>Clone the repository:</li>
   
 ```
 git clone https://github.com/Aseer-Bazal/Domain_Information_Gathering
