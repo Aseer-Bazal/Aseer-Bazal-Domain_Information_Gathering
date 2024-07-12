@@ -1,4 +1,0 @@
-dnspython
-requests
-python-whois
-shodan
